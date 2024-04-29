@@ -1,3 +1,9 @@
+# Udemy
+
+This is a course from Udemy titled React - The Complete Guide 2024 (incl. React Router & Redux) by Maximilian Schwarzmüller
+
+Link: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
 # COMMANDS
 
 To run the application
@@ -10,6 +16,14 @@ To run the backend. Go to backend and enter command below:
 
 ```
 node app.js
+```
+
+# React Hooks
+
+This code tutorial uses the hooks below
+
+```
+import { useRef, useState, useEffect, useCallback } from 'react'
 ```
 
 # React + TypeScript + Vite
